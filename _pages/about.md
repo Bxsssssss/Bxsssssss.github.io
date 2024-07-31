@@ -55,5 +55,5 @@ redirect_from:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2024.05 - 2024.07*, IT Intern in Siemens X-Ray Vacuum Technology, Siemens Healthineers AG, China.
-- *2022.06 - 2022.08*, Engineering Intern in Depuy Synthes, Johnson & Johnson Medical Ltd., China.
+- *2024.05 - 2024.07*, IT Intern in Siemens X-Ray Vacuum Technology, Siemens Healthineers AG.
+- *2022.06 - 2022.08*, Engineering Intern in Depuy Synthes, Johnson & Johnson Medical Ltd.
